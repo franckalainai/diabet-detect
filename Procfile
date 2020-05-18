@@ -1,1 +1,26 @@
-web: gunicorn app:app
+aniso8601==8.0.0
+attrs==19.3.0
+click==7.1.2
+cycler==0.10.0
+Flask==1.1.2
+flask-restplus==0.13.0
+gunicorn==20.0.4
+itsdangerous==1.1.0
+Jinja2==2.11.2
+joblib==0.15.1
+jsonschema==3.2.0
+kiwisolver==1.2.0
+MarkupSafe==1.1.1
+matplotlib==3.2.1
+numpy==1.18.4
+pandas==1.0.1
+pyparsing==2.4.7
+pyrsistent==0.16.0
+python-dateutil==2.8.1
+pytz==2020.1
+scipy==1.4.1
+seaborn==0.10.1
+six==1.14.0
+threadpoolctl==2.0.0
+Werkzeug==1.0.1
+
